@@ -8,7 +8,7 @@ class BlueCar {
     this.x = x ; 
     this.y = y ;
     img = loadImage("blue_car.png") ;   
-    speed = 10 ; 
+    speed = 11 ; 
   }
   
   void reset (){
